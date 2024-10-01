@@ -100,6 +100,6 @@ Feel free to extend this app in any way you like. Here are some ideas for next s
 
 ![Health-Literacy](./screenshots/3.png)
 
-[Moodl-Recommendations](./screenshots/4.png)
+![Moodl-Recommendations](./screenshots/4.png)
 
-[Leaflet-Therapists](./screenshots/5.png)
+![Leaflet-Therapists](./screenshots/5.png)
